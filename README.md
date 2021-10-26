@@ -15,8 +15,7 @@ Experiências
         <th>Período</th>
     </tr>
     <tr>
-        
-        <td><a href="https://ecompjr.com.br/"><img src="https://github.com/teeuguima/teeuguima/blob/master/public/logo.png" width="60px" height="60px" alt=""></a></td>
+        <td><img src="https://github.com/teeuguima/teeuguima/blob/master/public/logo.png" width="60px" height="60px" alt=""></td>
         <td>[Março, 2020 - Atual]</td>
         <td>Desenvolvendo o frontend de sites com as principais tecnologias (HTML, CSS e JS). <br> 
             Além disso, participei da construção dos protótipos de alguns sites que estava envolvido.</p></td>

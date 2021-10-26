@@ -22,21 +22,8 @@ Experiências
     <tr>
 </table>
 
-```csharp
-    
-    Experiências
-    ------------------------------------------
-   
-    EcompJr - 
+<hr>
 
-    Human Information
-    ------------------------------------------
-    Name: Damian
-    Lastname: Ziolo
-    Nickname: L0um15
-    Gender: Male
-    Age: 20
-    Hobbies: ["Movies"], ["Coding"], ["Gaming"], ["Music"]
-    Languages: ["Polish"], ["English US"], ["English UK"]
-    Occupation: Poland
-```
+Minhas Skills ⭐
+-------------------------------------------
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teeuguima&theme=tokyonight)

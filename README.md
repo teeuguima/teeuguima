@@ -12,7 +12,7 @@
     
     Experiências
     ------------------------------------------
-    <img src="./public/logo.png" alt=""> | EcompJr
+    <img src="https://github.com/teeuguima/teeuguima/blob/master/public/logo.png" width="160px" height="160px" alt=""> | EcompJr
     ------------------------------------ | Período: [Março, 2020 - Atual]
                                          | <p>Desenvolvendo o frontend de sites com as principais tecnologias (HTML, CSS e JS).
                                              Além disso, participei da construção dos protótipos de alguns sites que estava envolvido.

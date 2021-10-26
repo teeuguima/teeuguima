@@ -9,11 +9,23 @@
 
 Experiências
 ------------------------------------------
-<img src="https://github.com/teeuguima/teeuguima/blob/master/public/logo.png" width="80px" height="80px" alt=""> | 
-<p>EcompJr</p>  
-<p>Período: [Março, 2020 - Atual]</p> 
-<p>Desenvolvendo o frontend de sites com as principais tecnologias (HTML, CSS e JS). <br> 
-Além disso, participei da construção dos protótipos de alguns sites que estava envolvido.</p>
+<table>
+    <tr>
+        <th></th>
+        <th>Empresa</th>
+        <th>Período</th>
+    </tr>
+    <tr>
+        <td><img src="https://github.com/teeuguima/teeuguima/blob/master/public/logo.png" width="80px" height="80px" alt=""></td>
+        <td>EcompJr</td>
+        <td>[Março, 2020 - Atual]</td>
+        <td>Desenvolvendo o frontend de sites com as principais tecnologias (HTML, CSS e JS). <br> 
+            Além disso, participei da construção dos protótipos de alguns sites que estava envolvido.</p></td>
+    <tr>
+
+    </tr>
+
+</table>
 
 ```csharp
     

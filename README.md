@@ -7,3 +7,16 @@
 </p>
 <hr>
 <p>Sou desenvolvedor frontend e membro consultor na EcompJr, empresa júnior de engenharia de computação da UEFS.</p>
+
+```csharp
+    Human Information
+    ------------------------------------------
+    Name: Damian
+    Lastname: Ziolo
+    Nickname: L0um15
+    Gender: Male
+    Age: 20
+    Hobbies: ["Movies"], ["Coding"], ["Gaming"], ["Music"]
+    Languages: ["Polish"], ["English US"], ["English UK"]
+    Occupation: Poland
+```

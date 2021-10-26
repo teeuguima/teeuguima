@@ -22,9 +22,6 @@ Experiências
         <td>Desenvolvendo o frontend de sites com as principais tecnologias (HTML, CSS e JS). <br> 
             Além disso, participei da construção dos protótipos de alguns sites que estava envolvido.</p></td>
     <tr>
-
-    </tr>
-
 </table>
 
 ```csharp

@@ -1,5 +1,5 @@
 <style>
-    .table{
+    table{
         width: 100% !important;
     }
 </style>

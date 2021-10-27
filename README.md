@@ -5,12 +5,34 @@
 <p>Atualmente estou graduando Engenharia de Computação pela Universidade Estadual de Feira de Santana. Sou apaixonado
     em desenvolvimento frontend 👨‍💻 e em design UX/UI.
 </p>
-<hr>
 
-<span>Minhas Skills</span> <img src="https://cdn.streamelements.com/uploads/4ad33e4b-fe28-4e77-a64d-aa89109bd045.gif" width="25px" height="25px" alt=""> 
+
+<span>Minhas Habilidades</span> <img src="https://gamerview.com.br/wp-content/uploads/2019/12/mario-gif.gif" width="25px" height="25px" alt=""> 
 <img src="https://cdn.streamelements.com/uploads/4ad33e4b-fe28-4e77-a64d-aa89109bd045.gif" width="25px" height="25px" alt=""> 
--------------------------------------------
 
+<table>
+    <tr>
+        <th>
+            Front-End
+        </th>
+    </tr>
+    <tr>
+        <th>Linguagem</th>
+        <th>Nível</th>
+    </tr>
+    <tr>
+        <td>
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40px" height="40px" alt="">
+        </td>
+        <td>[  ] Básico [ x ] Intermédiario [  ] Avançado</td>
+        <!--<td>⭐⭐⭐⭐</td>-->
+    </tr>
+    <tr>
+        <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40px" height="40px" alt=""></td>
+        <td>[  ] Básico [ x ] Intermédiario [  ] Avançado</td>
+        <!--<td>⭐⭐⭐⭐</td>-->
+    </tr>
+</table>
 
 
 Experiências

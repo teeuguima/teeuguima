@@ -44,6 +44,7 @@ Experiências
     <tr>
         <th>Empresa</th>
         <th>Período</th>
+        <th>Descrição</th>
     </tr>
     <tr>
         <td><img src="https://github.com/teeuguima/teeuguima/blob/master/public/logo.png" width="60px" height="60px" alt=""></td>

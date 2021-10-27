@@ -18,7 +18,7 @@
 <img src="https://cdn.streamelements.com/uploads/4ad33e4b-fe28-4e77-a64d-aa89109bd045.gif" width="25px" height="25px" alt=""></h3>
 
 <table width="100%">
-    <tr>
+    <tr align="left">
         <th colspan="6">Linguagens</th>    
     </tr>
     <tr align="center">
@@ -29,7 +29,7 @@
         <th><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40px" height="40px" alt=""><br>PHP</th>
         <th><img src="https://marcas-logos.net/wp-content/uploads/2020/11/MySQL-logo.png" width="40px" height="40px" alt=""><br>MySQL</th>
     </tr>
-    <tr align="center">
+    <tr align="left">
         <th colspan="6">Nível técnico</th>
     </tr>
     <tr align="center">

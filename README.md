@@ -30,7 +30,7 @@
         <th><img src="https://marcas-logos.net/wp-content/uploads/2020/11/MySQL-logo.png" width="40px" height="40px" alt=""><br>MySQL</th>
     </tr>
     <tr>
-        <th colspan="3">Nível técnico</th>
+        <th colspan="6">Nível técnico</th>
     </tr>
     <tr align="center">
         <td align="left">⭐⭐⭐⭐</td>

@@ -1,10 +1,3 @@
-<style>
-    table{
-        width: 100% !important;
-    }
-</style>
-
-
 <p align="center"> <img src="https://github.com/teeuguima/teeuguima/blob/master/public/giphy.gif" width="180px" height="191px" alt="animated"/></p>
 
 <h1>Olá ✌, eu sou Mateus Guimarães, seja bem vindo(a)!</h1>
@@ -28,6 +21,7 @@
         <th><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/2367px-Vue.js_Logo_2.svg.png" width="40px" height="40px" alt=""><br>Vue</th>
         <th><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40px" height="40px" alt=""><br>PHP</th>
         <th><img src="https://marcas-logos.net/wp-content/uploads/2020/11/MySQL-logo.png" width="40px" height="40px" alt=""><br>MySQL</th>
+        <th><img src="https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" width="40px" height="40px" alt=""><br>Git</th>
     </tr>
     <tr align="left">
         <th colspan="6">Nível técnico</th>
@@ -39,6 +33,7 @@
         <td >⭐</td>
         <td >⭐⭐</td>
         <td >⭐⭐</td>
+        <td >⭐⭐⭐</td>
     </tr>
 </table>
 

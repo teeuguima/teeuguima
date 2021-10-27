@@ -19,17 +19,26 @@
 
 <table width="100%">
     <tr>
-        <th colspan="3">Linguagens</th>    
+        <th colspan="6">Linguagens</th>    
     </tr>
     <tr>
         <th><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40px" height="40px" alt=""> <br> HTML</th>
         <th><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40px" height="40px" alt=""><br>CSS</th>
-        <th><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40px" height="40px" alt=""><br>Javascript</th>
+        <th><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="35px" height="35px" alt=""><br>Javascript</th>
+        <th><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/2367px-Vue.js_Logo_2.svg.png" width="35px" height="35px" alt=""><br>Vue</th>
+        <th><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40px" height="40px" alt=""><br>PHP</th>
+        <th><img src="https://marcas-logos.net/wp-content/uploads/2020/11/MySQL-logo.png" width="40px" height="40px" alt=""><br>MySQL</th>
+    </tr>
+    <tr>
+        <th colspan="3">Nível técnico</th>
     </tr>
     <tr align="center">
         <td align="left">⭐⭐⭐⭐</td>
         <td align="left">⭐⭐⭐⭐</td>
         <td align="left">⭐⭐⭐</td>
+        <td align="left">⭐</td>
+        <td align="left">⭐⭐</td>
+        <td align="left">⭐⭐</td>
     </tr>
 </table>
 

@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://github.com/teeuguima/teeuguima/blob/master/public/giphy.gif" alt="animated"/></p>
+<p align="center"> <img src="https://github.com/teeuguima/teeuguima/blob/master/public/giphy.gif" width="120px" height="131px" alt="animated"/></p>
 
 <h1>Olá ✌, eu sou Mateus Guimarães, seja bem vindo(a)!</h1>
 
@@ -6,6 +6,11 @@
     em desenvolvimento frontend 👨‍💻 e em design UX/UI.
 </p>
 <hr>
+
+Minhas Skills ⭐
+-------------------------------------------
+
+
 
 Experiências
 ------------------------------------------
@@ -24,6 +29,10 @@ Experiências
 
 <hr>
 
-Minhas Skills ⭐
+
+
+
+
+Linguagens mais usadas ✅
 -------------------------------------------
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teeuguima&theme=tokyonight)

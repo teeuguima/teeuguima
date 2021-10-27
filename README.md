@@ -19,24 +19,16 @@
 
 <table width="100%">
     <tr>
-        <th colspan="2">Front-End</th>    
+        <th colspan="3">Linguagens</th>    
     </tr>
     <tr>
-        <th>Linguagem</th>
-        <th>Nível</th>
+        <th><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40px" height="40px" alt="">HTML</th>
+        <th><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40px" height="40px" alt="">CSS</th>
+        <th><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40px" height="40px" alt="">Javascript</th>
     </tr>
     <tr align="center">
-        <td>
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40px" height="40px" alt="">
-        </td>
         <td align="left">⭐⭐⭐⭐</td>
-    </tr>
-    <tr align="center">
-        <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40px" height="40px" alt=""></td>
         <td align="left">⭐⭐⭐⭐</td>
-    </tr>
-    <tr align="center">
-        <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40px" height="40px" alt=""></td>
         <td align="left">⭐⭐⭐</td>
     </tr>
 </table>

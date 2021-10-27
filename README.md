@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://github.com/teeuguima/teeuguima/blob/master/public/giphy.gif" width="120px" height="131px" alt="animated"/></p>
+<p align="center"> <img src="https://github.com/teeuguima/teeuguima/blob/master/public/giphy.gif" width="180px" height="191px" alt="animated"/></p>
 
 <h1>Olá ✌, eu sou Mateus Guimarães, seja bem vindo(a)!</h1>
 

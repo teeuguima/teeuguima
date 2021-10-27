@@ -7,7 +7,7 @@
 </p>
 <hr>
 
-Minhas Skills ⭐
+<p>Minhas Skills <img src="https://cdn.streamelements.com/uploads/4ad33e4b-fe28-4e77-a64d-aa89109bd045.gif" width="40px" height="40px" alt=""></p> 
 -------------------------------------------
 
 

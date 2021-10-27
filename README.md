@@ -6,7 +6,8 @@
     em desenvolvimento frontend 👨‍💻 e em design UX/UI.
 </p>
 
-![](https://visitor-badge.laobi.icu/badge?page_id=teeuguima.teeuguima)
+<p align="center">![](https://visitor-badge.laobi.icu/badge?page_id=teeuguima.teeuguima)</p>
+
 
 <h3>Minhas Habilidades &nbsp; <img src="https://gamerview.com.br/wp-content/uploads/2019/12/mario-gif.gif" width="25px" height="25px" alt=""> 
 <img src="https://cdn.streamelements.com/uploads/4ad33e4b-fe28-4e77-a64d-aa89109bd045.gif" width="25px" height="25px" alt=""></h3>
@@ -65,5 +66,5 @@ Linguagens mais usadas ✅
 -------------------------------------------
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teeuguima&layout=compact)](https://github.com/teeuguima/teeuguima)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teeuguima&layout=compact&theme=vue)](https://github.com/teeuguima/teeuguima)
 

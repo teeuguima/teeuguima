@@ -7,14 +7,8 @@
 </p>
 <hr>
 
-<table>
-    <tr>
-        <th> <p style="margin-bottom: 30px;">Minhas Skills</p><img src="https://cdn.streamelements.com/uploads/4ad33e4b-fe28-4e77-a64d-aa89109bd045.gif" width="40px" height="40px" alt=""></th>
-    </tr>
-</table>
-
-
-<!--------------------------------------------->
+<span style="margin-bottom: 30px !important;">Minhas Skills</span> <img src="https://cdn.streamelements.com/uploads/4ad33e4b-fe28-4e77-a64d-aa89109bd045.gif" width="40px" height="40px" alt=""> 
+-------------------------------------------
 
 
 

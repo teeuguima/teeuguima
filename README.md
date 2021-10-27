@@ -17,7 +17,7 @@
 <h3>Minhas Habilidades<img src="https://gamerview.com.br/wp-content/uploads/2019/12/mario-gif.gif" width="25px" height="25px" alt=""> 
 <img src="https://cdn.streamelements.com/uploads/4ad33e4b-fe28-4e77-a64d-aa89109bd045.gif" width="25px" height="25px" alt=""></h3>
 
-<table width="100%" display="inline">
+<table width="100%">
     <tr>
         <th colspan="2">Front-End</th>    
     </tr>
@@ -29,15 +29,15 @@
         <td>
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40px" height="40px" alt="">
         </td>
-        <td>⭐⭐⭐⭐</td>
+        <td align="left">⭐⭐⭐⭐</td>
     </tr>
     <tr align="center">
         <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40px" height="40px" alt=""></td>
-        <td>⭐⭐⭐⭐</td>
+        <td align="left">⭐⭐⭐⭐</td>
     </tr>
     <tr align="center">
         <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40px" height="40px" alt=""></td>
-        <td>⭐⭐⭐</td>
+        <td align="left">⭐⭐⭐</td>
     </tr>
 </table>
 

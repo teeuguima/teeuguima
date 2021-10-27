@@ -7,14 +7,13 @@
 </p>
 
 
-<span>Minhas Habilidades</span> <img src="https://gamerview.com.br/wp-content/uploads/2019/12/mario-gif.gif" width="25px" height="25px" alt=""> 
-<img src="https://cdn.streamelements.com/uploads/4ad33e4b-fe28-4e77-a64d-aa89109bd045.gif" width="25px" height="25px" alt=""> 
+<h3>Minhas Habilidades<img src="https://gamerview.com.br/wp-content/uploads/2019/12/mario-gif.gif" width="25px" height="25px" alt=""> 
+<img src="https://cdn.streamelements.com/uploads/4ad33e4b-fe28-4e77-a64d-aa89109bd045.gif" width="25px" height="25px" alt=""></h3>
 
 <table>
     <tr>
-        <th>
             Front-End
-        </th>
+     
     </tr>
     <tr>
         <th>Linguagem</th>
@@ -24,13 +23,11 @@
         <td>
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40px" height="40px" alt="">
         </td>
-        <td>[  ] Básico [ x ] Intermédiario [  ] Avançado</td>
-        <!--<td>⭐⭐⭐⭐</td>-->
+        <td>⭐⭐⭐⭐</td>
     </tr>
     <tr>
         <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40px" height="40px" alt=""></td>
-        <td>[  ] Básico [ x ] Intermédiario [  ] Avançado</td>
-        <!--<td>⭐⭐⭐⭐</td>-->
+        <td>⭐⭐⭐⭐</td>
     </tr>
 </table>
 

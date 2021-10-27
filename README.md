@@ -22,9 +22,9 @@
         <th colspan="3">Linguagens</th>    
     </tr>
     <tr>
-        <th><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40px" height="40px" alt="">HTML</th>
-        <th><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40px" height="40px" alt="">CSS</th>
-        <th><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40px" height="40px" alt="">Javascript</th>
+        <th><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40px" height="40px" alt=""> <br> HTML</th>
+        <th><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40px" height="40px" alt=""><br>CSS</th>
+        <th><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40px" height="40px" alt=""><br>Javascript</th>
     </tr>
     <tr align="center">
         <td align="left">⭐⭐⭐⭐</td>

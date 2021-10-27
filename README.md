@@ -12,7 +12,7 @@
 
 <table width="100%">
     <tr align="left">
-        <th colspan="7">Linguagens</th>    
+        <th colspan="7">Linguagens e ferramentas</th>    
     </tr>
     <tr align="center">
         <th><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40px" height="40px" alt=""> <br> HTML</th>
